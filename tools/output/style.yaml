@@ -1,0 +1,15 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/project-1---milestone-1-crimsonGnome/main.cc'
+Diagnostics:
+  - DiagnosticName:  clang-analyzer-deadcode.DeadStores
+    DiagnosticMessage:
+      Message:         'Value stored to ''threePixelHeight'' during its initialization is never read'
+      FilePath:        main.cc
+      FileOffset:      2992
+      Replacements:    []
+    Notes:
+      - Message:         'Value stored to ''threePixelHeight'' during its initialization is never read'
+        FilePath:        main.cc
+        FileOffset:      2992
+        Replacements:    []
+...

@@ -1,0 +1,7 @@
+[
+ {
+ "directory" : "/home/crimsongnome/Desktop/project-1---milestone-1-crimsonGnome",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/crimsongnome/Desktop/project-1---milestone-1-crimsonGnome/main.cc"
+ },
+]
